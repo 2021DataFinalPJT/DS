@@ -5,6 +5,8 @@ MeetingLog/
 발표자료/
 데이터 가이드/
 기획서/
+논문/
+
 *.number
 *.pdf
 .DS_Store
