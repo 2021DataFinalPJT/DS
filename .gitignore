@@ -7,6 +7,12 @@ MeetingLog/
 기획서/
 *.number
 *.pdf
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+[no_up]*.csv
+\[no_up\]*.csv
 
 ################################################################################
 
